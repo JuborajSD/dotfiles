@@ -47,7 +47,7 @@ Plugin manager [vim-plug](https://github.com/junegunn/vim-plug), install all the
 
 ## Some configurations
 
-For **coc-nvim** to work with these extensions
+For **coc-nvim** to work with these following extensions:
 
 - es7-react-js-snippets
 - path-intellisense
